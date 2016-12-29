@@ -1,14 +1,14 @@
 
 # WELCOME SCREEN
 welcome.cc.title=Gehe unsere Crashkurs durch (dauert ca. 30 Minuten).
-welcome.cc.desc=Learn the Stencyl way of creating games and get accustomed to the toolset.
-welcome.forum.title=Visit the Stencyl Community
-welcome.forum.desc=Visit our community forums, where you can ask questions and socialize with Stencylers like yourself.
+welcome.cc.desc=Lerne, wie man mit Stencyl Spiele macht und mache dich mit den Werkzeugen vertraut.
+welcome.forum.title=Besuche die Stencyl-Community.
+welcome.forum.desc=Besuchere unsere Community-Foren. Hier kannst du Fragen stellen und dich mit anderen Stencylern wie dich austauschen.
 # SIGN IN
-signin.yes=Sign In
-signin.no=Remind Me Later
-signin.info=Already have an account?
-signin.info2=Forgot Password?
+signin.yes=Anmelden
+signin.no=Später erinnern
+signin.info=Account bereits vorhanden?
+signin.info2=Passwort vergessen?
 signin.register=Sign Up
 signin.name=Username
 signin.key=Password
