@@ -1,11 +1,11 @@
 
 # UPDATER
-update.title=Update Stencyl
-update.remind.action=Remind me Later
-update.download.action=Download and Upgrade
-update.restart.title=Success!
-update.restart.action=Restart Stencyl
-update.restart=You have updated to <0> (b<1>). Stencyl must restart to complete this update.
+update.title=Stencyl updaten
+update.remind.action=Später erinnern
+update.download.action=Herunterladen und aktualisieren
+update.restart.title=Erfolgreich!
+update.restart.action=Stencyl neustarten
+update.restart=Nach <0> (b<1>) aktualisiert. Stencyl muss neugestartet werden, damit das Update wirksam wird.
 update.restart2=You have updated to <0> (b<1>). Stencyl will need to continue the update process after a restart.
 update.noneed=You're up to date!
 update.noneed2=<0> (b<1>) is currently the newest version available.
