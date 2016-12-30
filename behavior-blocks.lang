@@ -1,7 +1,7 @@
 
 # Actor Setters
-sactor.setxy=set %1 to %2 for %0
-sactor.setx=set x to %1 for %0
+sactor.setxy=set %1 bis %2 für %0
+sactor.setx=set x bis %1 für %0
 sactor.sety=set y to %1 for %0
 sactor.setangle=point %0 towards %1 degrees
 sactor.rotate=turn [i:rot-cw] %0 by %1 degrees
