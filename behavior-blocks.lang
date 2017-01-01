@@ -1,11 +1,11 @@
 
 # Actor Setters
-sactor.setxy=set %1 bis %2 für %0
-sactor.setx=set x bis %1 für %0
-sactor.sety=set y to %1 for %0
-sactor.setangle=point %0 towards %1 degrees
-sactor.rotate=turn [i:rot-cw] %0 by %1 degrees
-sactor.rotate2=turn [i:rot-ccw] %0 by %1 degrees
+sactor.setxy=Setze %1 auf %2 für %0
+sactor.setx=Setze x auf %1 für %0
+sactor.sety=Setze y auf %1 für %0
+sactor.setangle=Richte %0 um %1 Grad aus
+sactor.rotate=Drehe [i:rot-cw] %0 um %1 Grad
+sactor.rotate2=Drehe [i:rot-ccw] %0 um %1 Grad
 sactor.setdxy=set %1 to %2 for %0
 sactor.setdx=set x-speed to %1 for %0
 sactor.setdy=set y-speed to %1 for %0
