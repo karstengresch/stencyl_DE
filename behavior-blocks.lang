@@ -56,7 +56,7 @@ sactor.spinby=Drehe %0 um %1 Grad innerhalb von %2 Sekunden mit %3
 sactor.fadeto=Überblende %0 nach %1 [pct] für %2 Sekunden mit %3
 sactor.fadein=Blende %0 ein innerhalb von %1 Sekunden mit %2
 sactor.fadeout=Blende %0 aus innerhalb von %1 Sekunden mit %2
-sactor.scaleto=grow %0 to ( w: %1 [pct] , h: %2 [pct] ) over %3 sec using %4
+sactor.scaleto=Vergrößere %0 um ( w: %1 [pct] , h: %2 [pct] ) innerhalb von %3 sec mit %4
 # Dropdown Values
 transition.fadeout=Fade Out
 transition.fadein=Fade In
