@@ -88,8 +88,8 @@ easing.regularout=Normal hinein
 easing.strongin=Stark hinein
 easing.stronginout=Stark hinein/heraus
 easing.strongout=Stark heraus
-mouse.one=Left Mouse
-mouse.two=Right Mouse
+mouse.one=Linke Maustaste
+mouse.two=Rechte Maustaste
 # Actor Getters
 sactor.xy=%1 of %0
 sactor.x=x of %0
