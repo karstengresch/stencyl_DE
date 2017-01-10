@@ -241,13 +241,13 @@ num.degrees=%0 als Grad
 num.radians=%0 als Radiant
 # Mobile Controls
 in.accelerometer=%0 vom Beschleunigungssensor [i:mobile]
-in.numtouches=# of touch points [i:mobile]
-in.numtaps=# of taps [i:mobile]
-in.begandraggedreleasedtouch=touch is %0 [i:mobile]
-in.touchdragrelease=%1 of %0 [i:mobile]
+in.numtouches=# der Touchpoints [i:mobile]
+in.numtaps=# der Taps [i:mobile]
+in.begandraggedreleasedtouch=Touch ist %0 [i:mobile]
+in.touchdragrelease=%1 von %0 [i:mobile]
 in.touchdragreleaseactor=%1 %0 [i:mobile]
-in.foreachtouchdragrelease=for each %0 touch... [e:dash] %2
-in.touchpxy=%0 of touch [i:mobile]
+in.foreachtouchdragrelease=für jeden %0 Touch... [e:dash] %2
+in.touchpxy=%0 vom Touch [i:mobile]
 # Controls
 in.mousexy=%1 of %0 [i:flash]
 in.mousex=x of mouse
