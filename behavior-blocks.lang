@@ -249,11 +249,11 @@ in.touchdragreleaseactor=%1 %0 [i:mobile]
 in.foreachtouchdragrelease=für jeden %0 Touch... [e:dash] %2
 in.touchpxy=%0 vom Touch [i:mobile]
 # Controls
-in.mousexy=%1 of %0 [i:flash]
-in.mousex=x of mouse
-in.mousey=y of mouse
-in.mousepx=x of mouse press
-in.mousepy=y of mouse press
+in.mousexy=%1 von %0 [i:flash]
+in.mousex=x (Mauszeiger)
+in.mousey=y (Mauszeiger)
+in.mousepx=x (Mausdruck)
+in.mousepy=y (Mausdruck)
 in.mouserx=x of mouse release
 in.mousery=y of mouse release
 in.mousestate=mouse %0 [i:flash]
