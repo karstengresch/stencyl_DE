@@ -235,12 +235,12 @@ num.pi=[sp] Pi [sp]
 num.e=[sp] e [sp]
 num.string=%0 als Text
 num.randint=Zufällige Zahl zwischen %0 und %1
-num.rand=random float between 0.0 and 1.0
-num.degreesradians=%1 as %0
-num.degrees=%0 as degrees
-num.radians=%0 as radians
+num.rand=Zufällige Fließkommazahl zwischen 0.0 und 1.0
+num.degreesradians=%1 als %0
+num.degrees=%0 als Grad
+num.radians=%0 als Radiant
 # Mobile Controls
-in.accelerometer=%0 of accelerometer [i:mobile]
+in.accelerometer=%0 vom Beschleunigungssensor [i:mobile]
 in.numtouches=# of touch points [i:mobile]
 in.numtaps=# of taps [i:mobile]
 in.begandraggedreleasedtouch=touch is %0 [i:mobile]
