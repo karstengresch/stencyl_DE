@@ -296,17 +296,17 @@ in.joystick.dir=Joystick-Richtung [i:mobile]
 in.joystick.mag=Joystick-Distanz [i:mobile]
 in.joystick.toggle=%0 Joystick [i:mobile]
 in.joystick.setxy=Setze %0 für Joystick auf %1 [i:mobile]
-in.swipe.detect=swiped %0 [i:mobile]
-in.swipe.toggle=%0 swiping [i:mobile]
-in.vibrate=vibrate device [i:mobile]
-in.actordrag=make %0 draggable with sensitivity: %1 [i:mobile]
+in.swipe.detect=Wischgeste ausgeführt: %0 [i:mobile]
+in.swipe.toggle=%0 mit Wischgeste [i:mobile]
+in.vibrate=Lasse vibrieren [i:mobile]
+in.actordrag=make %0 mache verschiebbar mit Empfindlichkeit: %1 [i:mobile]
 # Scene
 # TODO: I need to add blocks for joints
 scene.actor=%0
 scene.joint=%0
 scene.region=%0
 scene.terrain.region=%0
-scene.change=%1 for %2 secs, then switch to %0 and %3 for %4 secs
+scene.change=%1 für %2 Sekunden, wechsle dann zu %0 und %3 für %4 secs
 scene.reload=%0 for %1 secs, then reload and %2 for %3 secs
 scene.change.through=switch to %0 and %1 for %2 secs [i:flash]
 scene.reload.through=reload and %0 for %1 secs [i:flash]
