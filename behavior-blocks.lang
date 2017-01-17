@@ -386,9 +386,9 @@ block.catype=wähle Actor-Type aus
 block.ccontrol=wähle Control aus
 block.csound=wähle Sound aus
 block.cscene=wähle Szene aus
-block.cfont=Choose Font
-block.ccolor=Choose Color
-block.cgroup=Choose Group
+block.cfont=wähle Font aus
+block.ccolor=wähle Farbe aus
+block.cgroup=wähle Gruppe aus
 scene.pause=%0 game
 scene.paused=game is paused
 # Game
