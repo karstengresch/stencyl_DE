@@ -404,12 +404,12 @@ scene.savesuccess=speichere erfolgreiches [e:tag-arrow]
 scene.loadsuccess=lade erfolgreiches [e:tag-arrow]
 scene.savefile.title=Titel der gespeicherten Datei
 scene.savefile.filename=Dateiname der gespeicherten Datei
-scene.savefile.get=get attribute %0 for save file
-game.user.currname=player's name
+scene.savefile.get=hole Attribut %0 für gespeicherte Dateei
+game.user.currname=Spielername
 # Kongregate
-game.kong.init=setup Kongregate API [i:kongregate]
-game.kong.submit=submit score to [i:kongregate] with ( name: %0 , value: %1 )
-game.kong.guest=[i:kongregate] player is a guest
+game.kong.init=richte Kongregate API ein [i:kongregate]
+game.kong.submit=übermittle Spielstamd nach [i:kongregate] mit ( name: %0 , value: %1 )
+game.kong.guest=[i:kongregate] Spieler ist Gast
 game.kong.username=name of [i:kongregate] player
 game.kong.userid=id of [i:kongregate] player
 # Mochi
