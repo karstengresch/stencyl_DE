@@ -402,8 +402,8 @@ scene.retrievesaves=für jedes gespeichertes Spiel... [i:save]
 scene.saveloadsuccess=speichern/laden war erfolgreich
 scene.savesuccess=speichere erfolgreiches [e:tag-arrow]
 scene.loadsuccess=lade erfolgreiches [e:tag-arrow]
-scene.savefile.title=title of save file
-scene.savefile.filename=filename of save file
+scene.savefile.title=Titel der gespeicherten Datei
+scene.savefile.filename=Dareina,e der gespeicherten Datei
 scene.savefile.get=get attribute %0 for save file
 game.user.currname=player's name
 # Kongregate
