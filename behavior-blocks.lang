@@ -437,19 +437,19 @@ iad.height=Höhe der iAd-Werbung [i:mobile]
 # iOS - Other
 ios.badge.number=setze Badge-Nummer des Icons auf %0 [i:mobile]
 # IAP
-ios.iap.buy=buy product with ID: %0 [i:mobile]
-ios.iap.purchased=user purchased product with ID: %0 [i:mobile]
-ios.iap.loaded=purchases are initialized
-ios.iap.titledescprice=%0 for product with ID: %1
+ios.iap.buy=kaufe Produkt mit ID: %0 [i:mobile]
+ios.iap.purchased=Benutzer kaufte Produkt mit ID: %0 [i:mobile]
+ios.iap.loaded=Käufe wurden initialisiert
+ios.iap.titledescprice=%0 für Produkt mit ID: %1
 # Sound
-ssound.play=play %0 [i:volume]
-ssound.loop=loop %0 [i:volume]
+ssound.play=spiele %0 [i:volume]
+ssound.loop=wiederhole %0 [i:volume]
 ssound.playloop=%0 %1 [i:volume]
-ssound.playloopchannel=%0 %1 on channel %2 [i:volume]
-ssound.controlchannel=%0 sound on channel %1 [i:volume-mute]
-ssound.stopall=stop all sounds [i:volume-mute]
-ssound.vol=set volume to %0 [pct] [i:volume]
-ssound.volchannel=set volume to %0 [pct] for channel %1 [i:volume]
+ssound.playloopchannel=%0 %1 auf Kanal %2 [i:volume]
+ssound.controlchannel=%0 Sound auf Kanal %1 [i:volume-mute]
+ssound.stopall=beende alle Klänge [i:volume-mute]
+ssound.vol=set Lautstärke auf %0 [pct] [i:volume]
+ssound.volchannel=setze Lautstärke auf %0 [pct] für Kanal %1 [i:volume]
 ssound.pan=set panning to %0 
 ssound.fade=%0 over %1 secs [i:volume-up]
 ssound.fadechannel=%0 sound on channel %1 over %2 secs [i:volume-up]
