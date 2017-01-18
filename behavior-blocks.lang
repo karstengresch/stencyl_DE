@@ -450,10 +450,10 @@ ssound.controlchannel=%0 Sound auf Kanal %1 [i:volume-mute]
 ssound.stopall=beende alle Klänge [i:volume-mute]
 ssound.vol=set Lautstärke auf %0 [pct] [i:volume]
 ssound.volchannel=setze Lautstärke auf %0 [pct] für Kanal %1 [i:volume]
-ssound.pan=set panning to %0 
-ssound.fade=%0 over %1 secs [i:volume-up]
-ssound.fadechannel=%0 sound on channel %1 over %2 secs [i:volume-up]
-ssound.fadeo=fade out over %0 secs [i:volume-down]
+ssound.pan=setze Hall auf %0 
+ssound.fade=%0 für %1 Sekunden [i:volume-up]
+ssound.fadechannel=%0 erklinge auf %1 für %2 Sekunden [i:volume-up]
+ssound.fadeo=klinge aus über %0 Sekunden [i:volume-down]
 ssound.fadei=fade in over %0 secs [i:volume-up]
 # GUI and Strings
 gui.str.length=%0 length
