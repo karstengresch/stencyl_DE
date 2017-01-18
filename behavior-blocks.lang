@@ -414,14 +414,14 @@ game.kong.username=Name des [i:kongregate]-Spielers
 game.kong.userid=ID des [i:kongregate]-Spielers
 # Mochi
 game.mochi.score.submit=übermittle Spielstand nach [i:mochi] mit ( boardID: %0 , value: %1 )
-game.mochi.score.show=Zeige [i:mochi] Scoreboard für boardID: %0 
+game.mochi.score.show=Zeige [i:mochi] Scoreboard für Board-ID: %0 
 game.mochi.ad.show=Zeige [i:mochi] Werbung mit Größe ( w: %0 , h: %1 )
 # Newgrounds
-game.ng.score.submit=submit score to Newgrounds [i:ng] with ( board: %0 , value: %1 )
-game.ng.score.show=show Newgrounds [i:ng] scoreboard for board: %0 
-game.ng.ad.show=show Newgrounds [i:ng] ad
-game.ng.medal=unlock Newgrounds [i:ng] medal for: %0 
-game.ng.medal.move=move Newgrounds [i:ng] medal to ( x: %0 , y: %1 )
+game.ng.score.submit=übermittle Spielstand zu Newgrounds [i:ng] mit ( board: %0 , value: %1 )
+game.ng.score.show=zeige Newgrounds [i:ng] Scoreboard für Board: %0 
+game.ng.ad.show=zeige Newgrounds [i:ng] Werbung
+game.ng.medal=schalte Newgrounds [i:ng] Medaille frei für: %0 
+game.ng.medal.move=bewege Newgrounds [i:ng] Medaille nach ( x: %0 , y: %1 )
 # Game Center
 gamecenter.init=setup Game Center [i:gamecenter]
 gamecenter.board.submit=submit score to [i:gamecenter] with ( ID: %1 , value: %0 )
