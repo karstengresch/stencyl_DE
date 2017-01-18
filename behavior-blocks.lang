@@ -429,13 +429,13 @@ gamecenter.board.show=Zeige Leaderboard für %0 [i:gamecenter]
 gamecenter.achievement.submit=berichte Errungenschaft %0 als %1 [pct] vollständig [i:gamecenter]
 gamecenter.achievement.show=zeige Errungenschaften [i:gamecenter]
 gamecenter.achievement.reset=setze Errungenschaften zurück [i:gamecenter]
-gamecenter.player.idname=%0 of [i:gamecenter] player
-gamecenter.player.auth=Game Center is initialized [i:gamecenter]
+gamecenter.player.idname=%0 von [i:gamecenter] Spieler
+gamecenter.player.auth=Game Center wurde initialisiert [i:gamecenter]
 # iAds
-iad.showhide=%0 iAd [i:mobile]
-iad.height=height of iAd [i:mobile]
+iad.showhide=%0 iAd-Werbung [i:mobile]
+iad.height=Höhe der iAd-Werbung [i:mobile]
 # iOS - Other
-ios.badge.number=set icon badge number to %0 [i:mobile]
+ios.badge.number=setze Badge-Nummer des Icons auf %0 [i:mobile]
 # IAP
 ios.iap.buy=buy product with ID: %0 [i:mobile]
 ios.iap.purchased=user purchased product with ID: %0 [i:mobile]
