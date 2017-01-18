@@ -423,12 +423,12 @@ game.ng.ad.show=zeige Newgrounds [i:ng] Werbung
 game.ng.medal=schalte Newgrounds [i:ng] Medaille frei für: %0 
 game.ng.medal.move=bewege Newgrounds [i:ng] Medaille nach ( x: %0 , y: %1 )
 # Game Center
-gamecenter.init=setup Game Center [i:gamecenter]
-gamecenter.board.submit=submit score to [i:gamecenter] with ( ID: %1 , value: %0 )
-gamecenter.board.show=show leaderboard for %0 [i:gamecenter]
-gamecenter.achievement.submit=report achievement %0 as %1 [pct] complete [i:gamecenter]
-gamecenter.achievement.show=show achievements [i:gamecenter]
-gamecenter.achievement.reset=reset achievements [i:gamecenter]
+gamecenter.init=richte Game Center ein [i:gamecenter]
+gamecenter.board.submit=übermittle Spielstand nach [i:gamecenter] mit ( ID: %1 , value: %0 )
+gamecenter.board.show=Zeige Leaderboard für %0 [i:gamecenter]
+gamecenter.achievement.submit=berichte Errungenschaft %0 als %1 [pct] vollständig [i:gamecenter]
+gamecenter.achievement.show=zeige Errungenschaften [i:gamecenter]
+gamecenter.achievement.reset=setze Errungenschaften zurück [i:gamecenter]
 gamecenter.player.idname=%0 of [i:gamecenter] player
 gamecenter.player.auth=Game Center is initialized [i:gamecenter]
 # iAds
