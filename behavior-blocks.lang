@@ -410,12 +410,12 @@ game.user.currname=Spielername
 game.kong.init=richte Kongregate API ein [i:kongregate]
 game.kong.submit=übermittle Spielstamd nach [i:kongregate] mit ( name: %0 , value: %1 )
 game.kong.guest=[i:kongregate] Spieler ist Gast
-game.kong.username=name of [i:kongregate] player
-game.kong.userid=id of [i:kongregate] player
+game.kong.username=Name des [i:kongregate]-Spielers
+game.kong.userid=ID des [i:kongregate]-Spielers
 # Mochi
-game.mochi.score.submit=submit score to [i:mochi] with ( boardID: %0 , value: %1 )
-game.mochi.score.show=show [i:mochi] scoreboard for boardID: %0 
-game.mochi.ad.show=show [i:mochi] ad with size ( w: %0 , h: %1 )
+game.mochi.score.submit=übermittle Spielstand nach [i:mochi] mit ( boardID: %0 , value: %1 )
+game.mochi.score.show=Zeige [i:mochi] Scoreboard für boardID: %0 
+game.mochi.ad.show=Zeige [i:mochi] Werbung mit Größe ( w: %0 , h: %1 )
 # Newgrounds
 game.ng.score.submit=submit score to Newgrounds [i:ng] with ( board: %0 , value: %1 )
 game.ng.score.show=show Newgrounds [i:ng] scoreboard for board: %0 
