@@ -526,12 +526,12 @@ adv.isios=läuft auf iOS [i:mobile]
 adv.isiphoneipad=läuft auf einem %0 [i:mobile]
 adv.doflash=führe nur unter Flash aus [i:flash]
 adv.doios=mache nur auf iOS [i:mobile]
-adv.loadunloadatlas=%0 atlas with ID: %1 [i:mobile]
+adv.loadunloadatlas=%0 Atlas mit ID: %1 [i:mobile]
 # Behavior (Actor)
-adv.hassnippet=%0 has behavior %1
-adv.getattribute=for %0 , get %2 from behavior %1
-adv.setattribute=for %0 , set %2 to %3 for behavior %1
-adv.say=trigger event %2 in behavior %1 for %0
+adv.hassnippet=%0 hat Verhalten %1
+adv.getattribute=für %0 , hole %2 vom Verhalten %1
+adv.setattribute=für %0 , setze %2 bis %3 für Verhalten %1
+adv.say=Trigger-Ereignis %2 in Verhalten %1 für %0
 adv.saythis=trigger event %0
 adv.shout=trigger event %1 in all behaviors for %0
 adv.snippet.actor.enabledisable=%1 behavior %2 for %0
