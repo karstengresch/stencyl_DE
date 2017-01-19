@@ -541,14 +541,14 @@ adv.snippet.disable2=deaktiviere Verhalten %1 für %0
 adv.snippet.isenableda=Verhalten %1 ist aktiviert für %0
 adv.snippet.isenabled=Verhalten %0 ist aktiviert für diese Szene
 # Behavior (Scene)
-adv.scene.hassnippet=this scene has behavior %0
-adv.scene.getattribute=for this scene, get %1 from behavior %0
-adv.scene.setattribute=for this scene, set %1 to %2 for behavior %0
-adv.scene.say=trigger event %1 in behavior %0 for this scene
-adv.scene.shout=trigger event %0 in all behaviors for this scene
-adv.scene.snippet.enabledisable=%0 behavior %1 for this scene
-adv.scene.snippet.enable=enable behavior %0 for this scene
-adv.scene.snippet.disable=disable behavior %0 for this scene
+adv.scene.hassnippet=Diese Szene verwendet Verhalten %0
+adv.scene.getattribute=für diese Szene: hole %1 von Verhalten %0
+adv.scene.setattribute=für diese Szene: setze %1 von Verhalten %0
+adv.scene.say=Trigger-Ereignis %1 in Verhalten %0 für diese Szene
+adv.scene.shout=Trigger-Ereignis %0 in sämtlichen Verhalten für diese Szene
+adv.scene.snippet.enabledisable=%0 Verhalten %1 für diese Szene
+adv.scene.snippet.enable=aktiviere Verhalten %0 für diese Szene
+adv.scene.snippet.disable=deaktiviere Verhalten %0 für diese Szene
 adv.snippet.scene.order=for this scene, behavior %0 , set update order to %1 , draw order to %2
 # Drawing
 draw.drawimagea=draw image for %0
