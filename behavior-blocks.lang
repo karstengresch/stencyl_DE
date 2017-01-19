@@ -549,11 +549,11 @@ adv.scene.shout=Trigger-Ereignis %0 in sämtlichen Verhalten für diese Szene
 adv.scene.snippet.enabledisable=%0 Verhalten %1 für diese Szene
 adv.scene.snippet.enable=aktiviere Verhalten %0 für diese Szene
 adv.scene.snippet.disable=deaktiviere Verhalten %0 für diese Szene
-adv.snippet.scene.order=for this scene, behavior %0 , set update order to %1 , draw order to %2
+adv.snippet.scene.order=für diese Szene, mit Verhalten %0 , setze Updatereihenfolge auf %1 , zeichne Reihenfolge auf %2
 # Drawing
-draw.drawimagea=draw image for %0
-draw.drawtext=draw text %0 at ( x: %1 y: %2 )
-draw.drawfillrect=%0 rect at ( x: %1 y: %2 ) with ( w: %3 h: %4)
+draw.drawimagea=zeichne Bild für %0
+draw.drawtext=zeige Text %0 auf ( x: %1 y: %2 )
+draw.drawfillrect=%0 Rechteck auf ( x: %1 y: %2 ) mit ( w: %3 h: %4)
 draw.drawrect=draw rect at ( x: %0 y: %1 ) with ( w: %2 h: %3 )
 draw.fillrect=fill rect at ( x: %0 y: %1 ) with ( w: %2 h: %3 )
 draw.drawfillroundrect=%0 round rect at ( x: %1 y: %2 ) with ( w: %3 h: %4 arc: %5 )
