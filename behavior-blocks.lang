@@ -604,10 +604,10 @@ draw.filter.bright=adjust brightness by %0 [pct] [i:flash]
 draw.filter.grayscale=make grayscale [i:flash]
 draw.filter.negative=make negative [i:flash]
 draw.filter.sepia=make sepia [i:flash]
-qual.none=None
-qual.low=Low
-qual.med=Medium
-qual.high=High
+qual.none=Keine
+qual.low=Niedrig
+qual.med=Mittel
+qual.high=Hoch
 # Collision
 collision.hit.actor=an actor
 collision.hit.terrain=terrain
