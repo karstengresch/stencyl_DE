@@ -610,8 +610,8 @@ qual.med=Mittel
 qual.high=Hoch
 # Collision
 collision.hit.actor=ein Aktor
-collision.hit.terrain=Terrain
-collision.hit.tile=ein Tile
+collision.hit.terrain=Boden
+collision.hit.tile=eine Kachel
 collision.hit.sensor=ein Sensor
 collision.hit.yes=wurde getroffen
 collision.hit.no=wurde nicht getroffen
