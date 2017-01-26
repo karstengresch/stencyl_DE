@@ -639,9 +639,9 @@ collision.isthis1=dieser Aktor ist der erste Aktor
 collision.isthis2=dieser Aktor ist der zweite Aktor
 collision.xynxy=%0 der Kollision
 collision.x=x der Kollision
-collision.y=y of collision
-collision.nx=x-normal of collision
-collision.ny=y-normal of collision
+collision.y=y der Kollision
+collision.nx=x-normal der Kollision
+collision.ny=y-normal der Kollision
 collision.normal.x=x-normal
 collision.normal.y=y-normal
 # Categories
