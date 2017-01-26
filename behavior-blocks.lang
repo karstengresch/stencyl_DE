@@ -645,11 +645,11 @@ collision.ny=y-normal der Kollision
 collision.normal.x=x-normal
 collision.normal.y=y-normal
 # Categories
-cat.actorget=Actor
-cat.numbers=Numbers & Text
-cat.scene=Scene
+cat.actorget=Aktor
+cat.numbers=Nummern und Text
+cat.scene=Szene
 cat.flow=Flow
-cat.controls=User Input
+cat.controls=Benutzereingabe
 cat.variables=Attributes
 cat.sound=Sound
 cat.message=Behavior
