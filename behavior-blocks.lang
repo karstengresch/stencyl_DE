@@ -700,13 +700,13 @@ cat.message.msg=Status
 cat.message.byob=Individuelle Blöcke
 cat.collision.basic=Grundlegend
 cat.collision.points=Kollisionspunkte
-# Subcategory Headers
+# Subcategory Header
 cat.actor.pos.pos=Position
-cat.actor.pos.dir=Direction
-cat.actor.move.force=Force
-cat.actor.move.turnspd=Turning Speed
-cat.actor.move.phys=Physics
-cat.actor.props.die=Alive / Dead
+cat.actor.pos.dir=Richtung
+cat.actor.move.force=Kraft
+cat.actor.move.turnspd=Drehgeschwindigkeit
+cat.actor.move.phys=Physik
+cat.actor.props.die=Lebend / Tot
 cat.actor.props.size=Size
 cat.actor.props.type=Groups / Type
 cat.actor.props.props=Properties
