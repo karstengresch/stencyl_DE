@@ -832,10 +832,10 @@ cat.graphics.draw.poly=Polygone
 cat.graphics.props.cf=Farbe und Schriftart
 cat.graphics.props.opacity=Transparenz
 cat.graphics.props.stroke=Strichstärke
-cat.graphics.props.fwidth=Font Width
-cat.graphics.props.fheight=Font Height
-cat.graphics.transform.transf=Transforms
-cat.graphics.transform.space=Space Conversion
+cat.graphics.props.fwidth=Schriftbreite
+cat.graphics.props.fheight=Schrifthöhe
+cat.graphics.transform.transf=Transformiert
+cat.graphics.transform.space=Raumumwandlung
 cat.collision.basic.side=Collision Side
 cat.collision.points.loop=Loop Over Each Point
 # Misc
