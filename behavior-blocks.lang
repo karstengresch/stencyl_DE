@@ -890,12 +890,12 @@ block.act.addfav=Zu Favoriten hinzufügen
 block.act.favup=Nach oben bewegen
 block.act.favdown=Nach unten bewegen
 # Generic
-upper=upper
-lower=lower
-before=before
-after=after
+upper=obere(s/r)
+lower=untere(s)
+before=vorher
+after=nachher
 in=in
-out=out
+out=aus
 push=gently
 shove=sharply
 is=is
