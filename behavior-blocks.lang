@@ -1005,9 +1005,9 @@ tilted=gedreht (Tilt)
 press=drücke
 pressedon=ist gedrückt auf
 draggedon=ist verschoben auf
-releasedon=is released on
-col.actor1=actor 1
-col.actor2=actor 2
+releasedon=wurde losgelassen aus
+col.actor1=Aktor 1
+col.actor2=Aktor 2
 # Block Searching
 block.search.searching=Searching...
 block.search.results=Search Results
