@@ -1009,7 +1009,7 @@ releasedon=wurde losgelassen aus
 col.actor1=Aktor 1
 col.actor2=Aktor 2
 # Block Searching
-block.search.searching=Searching...
-block.search.results=Search Results
+block.search.searching=Suche...
+block.search.results=Suchergebnisse
 # Instructions
-cat.favorite.inst=To add a block here, right click it and select 'Add to Favorites'.
+cat.favorite.inst=Um hier einen Block hinzuzufügen, rechtsklicken und "zu Favoriten hinzufügen" wählen.
