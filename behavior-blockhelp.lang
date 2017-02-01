@@ -1,8 +1,8 @@
 
 # Actor Setters
-sactor.setxy.help=Sets the position of the actor.
-sactor.setx.help=Sets the x position of the actor.
-sactor.sety.help=Sets the y position of the actor.
+sactor.setxy.help=Legt die Position des Aktors fest.
+sactor.setx.help=Legt die x-Position des Aktors fest.
+sactor.sety.help=Legt die y-Position des Aktors fest.
 sactor.setangle.help=Sets the angle towards which the actor faces in degrees.
 sactor.rotate.help=Rotates the actor clockwise (CW).
 sactor.rotate2.help=Rotates the actor counterclockwise (CCW).
