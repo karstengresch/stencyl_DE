@@ -4,7 +4,7 @@ actor.props=Eigenschaften
 actor.rename=Benenne den Spielertyp um
 actor.group.edit=Überarbeite Gruppen...
 actor.regroup=Wähle Gruppen
-actor.regroup.info=Gruppen werden verwendet um die Kollision Groups are used to determine what kinds of Actor Types collide with each other.
+actor.regroup.info=Kollisionsgruppen werden verwendet, um zu ermitteln, welche Aktortypen miteinander kollidieren.
 actor.title=Spielertyp Ersteller
 actor.physics=Physik ändern
 # Actor Top Bar
