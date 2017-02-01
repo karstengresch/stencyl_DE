@@ -1,20 +1,20 @@
 
 # ATTRIBUTES
-att.type.number=Number
+att.type.number=Nummer
 att.type.text=Text
-att.type.bool=Boolean (Yes or No)
-att.type.list=List
+att.type.bool=Boolean (Ja oder Nein)
+att.type.list=Liste
 att.name=Name
-att.type=Type
-att.value=Initial Value
-att.cat=Category
-att.about=What are Game Attributes?
-att.none=Click here to create a Game Attribute.
-att.new=Create New Game Attribute
-att.cat.refresh=Apply New Category
-att.cat.new=Add Category
-att.cat.new.placeholder=Enter Category Name...
-att.cat.rename=Rename Category
+att.type=Typ
+att.value=Anfangswert
+att.cat=Kategorie
+att.about=Was sind Spielattribute?
+att.none=Hier klicken, um ein Spielattribut zu erstellen.
+att.new=Neues Spielattribut erstellen.
+att.cat.refresh=Neue Kategorie anwenden
+att.cat.new=Kategorie hinzufügen
+att.cat.new.placeholder=Name der Kategorie erfassen...
+att.cat.rename=Kategorie umbenennen
 att.cat.inst=Choose an existing category, or type in a new one and click Apply.
 att.cat.new.inst=Choose an existing category, or type in a new one.
 att.show=Show Game Attributes
