@@ -3,9 +3,9 @@
 sactor.setxy.help=Legt die Position des Aktors fest.
 sactor.setx.help=Legt die x-Position des Aktors fest.
 sactor.sety.help=Legt die y-Position des Aktors fest.
-sactor.setangle.help=Sets the angle towards which the actor faces in degrees.
-sactor.rotate.help=Rotates the actor clockwise (CW).
-sactor.rotate2.help=Rotates the actor counterclockwise (CCW).
+sactor.setangle.help=Legt den Winkelgrad der Aktor-Blickrichtung fest.
+sactor.rotate.help=Dreht den Aktor im Uhzeigersinn (CW).
+sactor.rotate2.help=Dreht den Aktor gegen den Uhzeigersinn (CCW).
 sactor.setdxy.help=Sets the actor's velocity.
 sactor.setdx.help=Sets the actor's horizontal (X) velocity.
 sactor.setdy.help=Sets the actor's vertical (Y) velocity.
