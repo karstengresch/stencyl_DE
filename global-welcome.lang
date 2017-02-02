@@ -1,9 +1,9 @@
 
 # WELCOME SCREEN
-welcome.cc.title=Gehe unsere Crashkurs durch (dauert ca. 30 Minuten).
-welcome.cc.desc=Lerne, wie man mit Stencyl Spiele macht und mache dich mit den Werkzeugen vertraut.
+welcome.cc.title=Gehe unsere Crashkurse durch (dauert ca. 30 Minuten).
+welcome.cc.desc=Lerne, wie man Spiele mit Stencyl macht und mach Dich mit den Werkzeugen vertraut.
 welcome.forum.title=Besuche die Stencyl-Community.
-welcome.forum.desc=Besuchere unsere Community-Foren. Hier kannst du Fragen stellen und dich mit anderen Stencylern wie dich austauschen.
+welcome.forum.desc=Besuche unsere Community-Foren. Hier kannst Du Fragen stellen und Dich mit anderen Stencylern austauschen.
 # SIGN IN
 signin.yes=Anmelden
 signin.no=Später erinnern
