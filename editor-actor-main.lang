@@ -5,7 +5,7 @@ actor.rename=Benenne den Spielertyp um
 actor.group.edit=Überarbeite Gruppen...
 actor.regroup=Wähle Gruppen
 actor.regroup.info=Kollisionsgruppen werden verwendet, um zu ermitteln, welche Aktortypen miteinander kollidieren.
-actor.title=Spielertyp Ersteller
+actor.title=Spielertyp-Ersteller
 actor.physics=Physik ändern
 # Actor Top Bar
 actor.top.appearance=Erscheinungsbild

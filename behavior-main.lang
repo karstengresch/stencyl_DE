@@ -92,12 +92,12 @@ snip.icon.info=Die optimale Größe ist 48 x 48 Pixel.
 # DESIGN MODE
 sb.design.toggle.palette=Palette umschalten
 sb.design.arrange=Blöcke anordnen
-sb.design.toggle.events=Event Seitenleiste umschalten
+sb.design.toggle.events=Event-Seitenleiste umschalten
 sb.design.capture=Screenshot erstellen
 sb.design.capture2=Screenshot erstellen und einem Freund senden
 sb.design.clean=Lose Blöcke entfernen
 sb.design.reset=Gestaltung zurücksetzen
-sb.trash.info=Ziehe Blöcke zum Papierkorb um sie zu löschen.
+sb.trash.info=Ziehe Blöcke zum Papierkorb, um sie zu löschen.
 sb.design.events.show=Event hinzufügen...
 sb.design.events.next=Nächstes Event
 sb.design.events.prev=Letztes Event
