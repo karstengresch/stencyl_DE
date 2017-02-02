@@ -17,9 +17,9 @@ actor.snippet.instance.disable=Verhalten deaktivieren
 actor.snippet.instance.reset=Alle Werte zurücksetzen
 actor.snippet.instance.toggle.e=Eigene Einstellungen aktivieren
 actor.snippet.instance.toggle.d=Eigene Einstellungen deaktivieren
-actor.snippet.instance.disabled=Klicke hier um eigene Einstellungen für das Spielerverhalten zu erstellen.
+actor.snippet.instance.disabled=Klicke hier, um eigene Einstellungen für das Spielerverhalten zu erstellen.
 # Behavior Page
-list.add=Element zur Liste Hinzufügen
+list.add=Element zur Liste hinzufügen
 list.remove=Element aus der Liste löschen
 list.edit=Element ändern
 list.up=Bewege Element nach oben
