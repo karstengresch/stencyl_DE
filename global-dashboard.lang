@@ -10,7 +10,7 @@ gamecenter.actors=Aktore sind die lebenden Objekte, durch die alles in Spielen g
 gamecenter.backs=Hintergründe sind große Bilder die hinter oder vor Spielen gezeigt werden und normalerweise mit der Szene scrollen.
 gamecenter.sounds=Geräusche können entweder Hintergrundmusik oder kurze Effektgeräusche sein.
 gamecenter.sprites=Sprites sind zusammengefasste Animationen, die das Erscheinungsbild eines Aktors bestimmen.
-gamecenter.tilesets=Tilesets are bundles of Tiles with which you can construct a scene.
+gamecenter.tilesets=Tilesets sind zusammengefasste Tiles (Kacheln) mit denen Du eine Szene erstellen kannst.
 # LIBRARY
 library.create.pack=Click here to add a resource to this pack.
 library.create.generic=Click here to create new <0>.
