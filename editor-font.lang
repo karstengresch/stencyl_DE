@@ -1,8 +1,8 @@
 
 # FONT CREATOR
-font.chooser.title=Choose a Font...
-font.top.main=Font
-font.top.properties=Properties
+font.chooser.title=Schriftart wählen...
+font.top.main=Schriftart
+font.top.properties=Eigenschaften
 font.cat.style=Font Style
 font.cat.spacing=Spacing
 font.cat.fx=Effects
