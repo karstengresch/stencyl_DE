@@ -191,15 +191,15 @@ mod.layers=Ebenen
 mod.game=Bibliothek
 mod.properties=Eigenschaften
 mod.scenes=Szenen
-mod.output=Output
-mod.variables=Attributes
-mod.inventory=Inventory
-mod.inspector=Inspector
+mod.output=Ausgabe
+mod.variables=Attribute
+mod.inventory=Inventar
+mod.inspector=Inspektor
 # PALETTE
 palette.tile=Tiles
-palette.actor=Actors
+palette.actor=Aktore
 palette.tilesets=Tilesets
-palette.tilesets.create=Create a New Tileset
+palette.tilesets.create=Erstelle ein neues Tileset
 # INVENTORY
 inventory.actors=Spieler
 inventory.regions=Regionen
