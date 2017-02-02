@@ -1,10 +1,10 @@
 
 # BACKGROUND CREATOR
 bg.top.main=Hintergrund
-bg.top.properties=Properties
-bg.top.attach=Attach to Scene
-bg.rename=Rename
-bg.resize=Override Size
+bg.top.properties=Eigenschaften
+bg.top.attach=Zur Szene hinzufügen
+bg.rename=Umbenennen
+bg.resize=Größe überschreiben
 bg.scroll=Set Scroll Speed
 bg.preview=Preview
 bg.scroll.title=Scroll Speed
