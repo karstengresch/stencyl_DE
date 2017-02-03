@@ -1,11 +1,11 @@
 
 # Sprite Editor
 sprite.animations=Animationen
-sprite.properties=Sprite Umbennen
+sprite.properties=Sprite umbenennen
 sprite.menu.create=Animationen erstellen
 sprite.menu.import=Importiere vorhandene Animationen
 sprite.menu.delete=Animationen entfernen
-sprite.menu.default=Als standard Animation verwenden
+sprite.menu.default=Animation standardmäßig verwenden
 sprite.menu.duplicate=Animation verdoppeln
 sprite.menu.flip.horiz=Horizontal umdrehen
 sprite.menu.flip.vert=Vertikal umdrehen
@@ -24,7 +24,7 @@ sprite.menu.editframe=Rahmen ändern
 sprite.menu.removeframe=Rahmen entfernen
 sprite.menu.back=Zurück bewegen
 sprite.menu.forward=Vorwärts bewegen
-sprite.anim.empty=Klicke hier um einen Rahmen hinzuzufügen.
+sprite.anim.empty=Klicke hier, um einen Rahmen hinzuzufügen.
 sprite.menu.copy=Rahmen kopieren
 sprite.menu.paste=Rahmen einfügen
 # Origin Points
