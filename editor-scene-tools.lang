@@ -1,18 +1,18 @@
 
 # TOOLS
-tools.select=^Select
-tools.pencil=^Pencil
-tools.eraser=^Eraser
+tools.select=^Wähle
+tools.pencil=^Stift
+tools.eraser=^Radiergummi
 tools.picker=P^icker
-tools.fill=Flood Fill
-tools.region=^Regions
+tools.fill=Farbfüllung
+tools.region=^Regionen
 tools.terrain.region=^Terrain
-tools.camera=^Cameras
-tools.path=P^aths
-tools.inscol=Insert Column
+tools.camera=^Kameras
+tools.path=P^fade
+tools.inscol=Spalte einfügen
 tools.insrow=Insert Row
 tools.delcol=Remove Column
-tools.delrow=Remove Row
+tools.delrow=Zeile löschen
 tools.resize=Resize Scene
 tools.stick=Add Stick Joint
 tools.hinge=Add Hinge Joint
