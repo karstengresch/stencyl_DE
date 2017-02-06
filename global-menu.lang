@@ -3,11 +3,11 @@
 bar.create=Neu erstellen...
 bar.import=Importieren...
 bar.open.scene=Szene öffnen
-bar.save=Save
-bar.savegame=Save Game
-bar.reload=Reload Document
-bar.preview=Test Game
-bar.publish=Publish
+bar.save=Speichern
+bar.savegame=Spiel speichern
+bar.reload=Dokument neu laden
+bar.preview=Spiel testen
+bar.publish=Veröffentlichen
 bar.game=Game Settings
 bar.controls=Controls
 bar.stats=Statistics
