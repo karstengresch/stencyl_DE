@@ -8,16 +8,16 @@ bar.savegame=Spiel speichern
 bar.reload=Dokument neu laden
 bar.preview=Spiel testen
 bar.publish=Veröffentlichen
-bar.game=Game Settings
-bar.controls=Controls
-bar.stats=Statistics
+bar.game=Spieleigenschaften
+bar.controls=Bedienelemente
+bar.stats=Statistiken
 bar.forgecenter=StencylForge
 # MENU
-menu.top.file=_File
-menu.top.edit=_Edit
-menu.top.view=_View
+menu.top.file=_Datei
+menu.top.edit=_Bearbeiten
+menu.top.view=_Ansicht
 menu.top.run=Starten
-menu.top.publish=_Publish
+menu.top.publish=_Veröffentlichen
 menu.top.help=_Help
 ## FILE MENU
 menu.file.new=Create New
