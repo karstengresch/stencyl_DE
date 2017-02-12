@@ -103,11 +103,11 @@ menu.edit.sendtoback=In den Hintergrund bringen
 menu.edit.sendtofront=In den Vordergrund bringen
 menu.edit.sendback=Nach hinten bringen
 menu.edit.sendforward=Nach vorne bringen
-menu.edit.actortype=Edit this Actor's Type...
-menu.edit.actorbehavior=Customize Behavior...
+menu.edit.actortype=Den Typus dieses Aktors bearbeiten...
+menu.edit.actorbehavior=Verhalten anpassen...
 ## EXTENSIONS MENU
-menu.extensions=Extensions
-menu.extensions.main=Extensions Manager
+menu.extensions=Erweiterungen
+menu.extensions.main=Erweiterungs-Manager
 ## SCENE MENU
 menu.scene.props=Edit Scene Properties
 ## WINDOW MENU
