@@ -109,12 +109,12 @@ menu.edit.actorbehavior=Verhalten anpassen...
 menu.extensions=Erweiterungen
 menu.extensions.main=Erweiterungs-Manager
 ## SCENE MENU
-menu.scene.props=Edit Scene Properties
+menu.scene.props=Szeneneinstellungen bearbeiten
 ## WINDOW MENU
 menu.window.toolbar=Toolbar
 menu.window.show.forgecenter=StencylForge
-menu.view.prevtab=Previous Tab
-menu.view.nexttab=Next Tab
+menu.view.prevtab=Vorheriger Reiter
+menu.view.nexttab=Nächster Reiter
 ## HELP MENU
 menu.help.tour=Getting Started
 menu.help.about=About Stencyl
