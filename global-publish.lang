@@ -1,12 +1,12 @@
 
 # SHARING
 # PUBLISHER
-publish.finish.title=Congratulations!
-publish.finish.msg=Your game has been published to the Stencyl Arcade.
-publish.fail=Stencyl could not publish your game. Try again.<br><br>If the problem persists, verify that you have a working Internet connection.<br><br>
-publish.filesize=Stencyl could not publish your game.  The file size is greater than 16MB.
-publish.nobrowser=Stencyl could not find an available web browser to use.
-publish.play=Play it Now
-publish.fb=Share on Facebook
-publish.tweet=Share on Twitter
-publish.embed=Embed on my website
+publish.finish.title=Herzlichen Glückwunsch!
+publish.finish.msg=Dein Spiel wurde auf Stencyl Arcade veröffentlicht.
+publish.fail=Stencyl konnte Dein Spiel nicht veröffentlichen. Versuche es erneut.<br><br>Wenn Dein Problem bestehen bleibt, stelle sicher, dass Deine Internetverbindung funktioniert.<br><br>
+publish.filesize=Stencyl konnte Dein Spiel nicht veröffentlichen.  Die Dateigröße überschreitet 16MB.
+publish.nobrowser=Stencyl konnte keinen Webbrowser finden.
+publish.play=Spiele jetzt
+publish.fb=Auf Facebook teilen
+publish.tweet=Auf Twitter teilen
+publish.embed=Auf meiner Webseite einbinden
