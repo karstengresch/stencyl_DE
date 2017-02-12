@@ -116,7 +116,7 @@ menu.window.show.forgecenter=StencylForge
 menu.view.prevtab=Vorheriger Reiter
 menu.view.nexttab=Nächster Reiter
 ## HELP MENU
-menu.help.tour=Getting Started
-menu.help.about=About Stencyl
-menu.upgrade.pro=Upgrade to Stencyl Pro
-menu.upgrade.ios=Upgrade to iOS Pro
+menu.help.tour=Einführung
+menu.help.about=Über Stencyl
+menu.upgrade.pro=Auf Stencyl Pro upgraden
+menu.upgrade.ios=Auf iOS Pro upgraden
