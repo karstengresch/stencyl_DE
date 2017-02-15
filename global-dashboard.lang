@@ -15,8 +15,8 @@ gamecenter.tilesets=Tilesets sind zusammengefasste Tiles (Kacheln) mit denen Du 
 library.create.pack=Hier klicken, um eine Ressource zum Paket hinzuzufügen.
 library.create.generic=Hier klicken um neu zu erstellen: <0>.
 library.empty.games=Hier klicken, um ein neues Spiel zu erstellen.
-library.empty.kits=Click here to create a Kit.
-library.empty=This game contains no <0>. Click here to create one.
+library.empty.kits=Hir klicken, um ein Kit zu erstellen.
+library.empty=Dieses Spiel enthält kein(e/en) <0>. Hier zum Erstellen klicken.
 library.empty.folder=This folder contains no <0>. Click here to create one.
 # Example - Motion Behavior, Drawing Behavior - Localize appropriately.
 library.empty.snipname=<0> <1>
