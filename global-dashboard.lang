@@ -17,12 +17,12 @@ library.create.generic=Hier klicken um neu zu erstellen: <0>.
 library.empty.games=Hier klicken, um ein neues Spiel zu erstellen.
 library.empty.kits=Hir klicken, um ein Kit zu erstellen.
 library.empty=Dieses Spiel enthält kein(e/en) <0>. Hier zum Erstellen klicken.
-library.empty.folder=This folder contains no <0>. Click here to create one.
+library.empty.folder=Dieser Ordner enthält kein(e/en) <0>. Hier zum Erstellen klicken.
 # Example - Motion Behavior, Drawing Behavior - Localize appropriately.
 library.empty.snipname=<0> <1>
-library.empty2=This game contains no <0>.
-library.empty2.folder=This folder contains no <0>.
-library.empty.pack=This pack contains no resources. Click here to add one.
+library.empty2=Dieses Spiel enthält kein(e/en) <0>.
+library.empty2.folder=Dieser Ordner enthält kein(e/en) <0>.
+library.empty.pack=Dieses Pack enthält keine Ressourcen. Hier zum Erstellen klicken.
 library.projects=My Projects
 library.resource=Resource
 library.game=Game
