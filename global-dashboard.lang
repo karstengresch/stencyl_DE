@@ -12,9 +12,9 @@ gamecenter.sounds=Geräusche können entweder Hintergrundmusik oder kurze Effekt
 gamecenter.sprites=Sprites sind zusammengefasste Animationen, die das Erscheinungsbild eines Aktors bestimmen.
 gamecenter.tilesets=Tilesets sind zusammengefasste Tiles (Kacheln) mit denen Du eine Szene erstellen kannst.
 # LIBRARY
-library.create.pack=Click here to add a resource to this pack.
-library.create.generic=Click here to create new <0>.
-library.empty.games=Click here to create a Game.
+library.create.pack=Hier klicken, um eine Ressource zum Paket hinzuzufügen.
+library.create.generic=Hier klicken um neu zu erstellen: <0>.
+library.empty.games=Hier klicken, um ein neues Spiel zu erstellen.
 library.empty.kits=Click here to create a Kit.
 library.empty=This game contains no <0>. Click here to create one.
 library.empty.folder=This folder contains no <0>. Click here to create one.
