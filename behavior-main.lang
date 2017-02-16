@@ -3,7 +3,7 @@
 sb.mode.vars=Attribute
 sb.mode.favorites=Favoriten
 sb.mode.props=Eigenschaften ändern
-sb.mode.snippets=Zwischen-Verhalten ändern. (Sub-Behaviors)
+sb.mode.snippets=Untergeordnete Verhalten ändern.
 # MENU
 menu.top.run=Starten
 sb.file.new=Neues Verhalten
@@ -38,7 +38,7 @@ sb.help.toggle=Stencylpedia
 sb.help.call=Hilfe
 sb.chat.toggle=Chat
 sb.answers=Stencyl antwortet
-sb.help.crashcourse=Loslegen
+sb.help.crashcourse=Crash-Kurs
 sb.help.faq=Stencylpedia
 sb.help.faq.mobile=iStencyl Hilfe (auf Stencylpedia)
 sb.help.attributes=Lerne wie man Attribute erstellt.
@@ -92,12 +92,12 @@ snip.icon.info=Die optimale Größe ist 48 x 48 Pixel.
 # DESIGN MODE
 sb.design.toggle.palette=Palette umschalten
 sb.design.arrange=Blöcke anordnen
-sb.design.toggle.events=Event-Seitenleiste umschalten
+sb.design.toggle.events=Ereignis-Seitenleiste umschalten
 sb.design.capture=Screenshot erstellen
 sb.design.capture2=Screenshot erstellen und einem Freund senden
 sb.design.clean=Lose Blöcke entfernen
 sb.design.reset=Gestaltung zurücksetzen
 sb.trash.info=Ziehe Blöcke zum Papierkorb, um sie zu löschen.
-sb.design.events.show=Event hinzufügen...
-sb.design.events.next=Nächstes Event
-sb.design.events.prev=Letztes Event
+sb.design.events.show=Ereignis hinzufügen...
+sb.design.events.next=Nächstes Ereignis
+sb.design.events.prev=Letztes Ereignis
