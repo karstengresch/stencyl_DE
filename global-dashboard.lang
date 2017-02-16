@@ -104,9 +104,9 @@ library.stats=Statistiken
 library.addons=Erweiterungen
 library.preloader=Startbildschirm
 # LIBRARY (Other)
-pack.edit.title=Pack Properties
-folder.edit.title=Edit Folder Properties
-folder.edit.title.new=Create New Folder
+pack.edit.title=Pack-Eigenschaften
+folder.edit.title=Bearbeite Verzeichniseigenschaften
+folder.edit.title.new=Neues Verzeichnis erstellen
 # PACKS
 pack.icon=Icon
 # PREVIEW PANE
