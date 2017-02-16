@@ -2,15 +2,15 @@
 # Tileset Creator
 tset.top.tileset=Tileset
 tset.top.properties=Eigenschaften
-tset.title=Tileset Ersteller
-tset.stile=das ausgewählte tile
-tset.stiles=die ausgewählten tiles
-tset.properties=Tileset Umbenennen
-tset.details1=Beinhaltet <0> tiles
-tset.details2=Tileset Größe: <0> x <1>
-tset.details3=Tile Größe: <0> x <1>
-tset.details4=Tile ID: <0>
-tset.details5=TilesetID: <0>
+tset.title=Tileset-Ersteller
+tset.stile=das ausgewählte Tile
+tset.stiles=die ausgewählten Tiles
+tset.properties=Tileset umbenennen
+tset.details1=Beinhaltet <0> Tiles
+tset.details2=Tileset-Größe: <0> x <1>
+tset.details3=Tile-Größe: <0> x <1>
+tset.details4=Tile-ID: <0>
+tset.details5=Tileset-ID: <0>
 tset.tile.create=Importiere die Tiles vom Sheet
 tset.tile.resize=Ändere die Tile-Größe
 tset.tile.resize.w=Tile Weite
