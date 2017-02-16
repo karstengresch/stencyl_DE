@@ -1,10 +1,10 @@
 
 # MODES
-sb.mode.code=Code Modus
-sb.mode.design=Design Modus
-sb.mode.coded=<b>Code Modus</b><br>Schreibe einen einfachen Code um Verhalten zu erstellen.
-sb.mode.designd=<b>Design Modus</b><br>Setze Codeblöcke zusammen um Verhalten für deine Spieler oder Szenen zu erstellen.
-sb.mode.arbitrary=<b>Freihand Modus</b><br>Schreibe deinen eigenen Code für dein Spiel. Dieser kann nicht zu Spielern oder Szenen hinzugefügt werden.
+sb.mode.code=Code-Modus
+sb.mode.design=Design-Modus
+sb.mode.coded=<b>Code-Modus</b><br>Schreibe einen einfachen Code, um Verhalten zu erstellen.
+sb.mode.designd=<b>Design-Modus</b><br>Setze Codeblöcke zusammen, um Verhalten für deine Spieler oder Szenen zu erstellen.
+sb.mode.arbitrary=<b>Freihand Modus</b><br>Schreibe deinen eigenen Code für Dein Spiel. Dieser kann nicht zu Spielern oder Szenen hinzugefügt werden.
 # NEW BEHAVIOR DIALOG
 sb.edit.title=Eigenschaften ändern
 sb.new.mode=Modus
@@ -12,10 +12,10 @@ sb.new.props=Grundlagen
 sb.new.name=Name
 sb.new.class=Klassenname
 sb.new.type.help=Verhaltenstyp
-sb.new.type.actor=<b>Spieler Verhalten</b><br>Wird nur zu Spielern hinzugefügt.
-sb.new.type.scene=<b>Szenen Verhalten</b><br>Wird nur zu Szenen hinzugefügt.
+sb.new.type.actor=<b>Spielerverhalten</b><br>Wird nur zu Spielern hinzugefügt.
+sb.new.type.scene=<b>Szenenverhalten</b><br>Wird nur zu Szenen hinzugefügt.
 sb.new.description=Beschreibung
-sb.error.integer=Gebe einen Integer ein.
-sb.error.number=Gebe eine Nummer ein.
-sb.error.text=Gebe Text ein.
+sb.error.integer=Gib einen Integer ein.
+sb.error.number=Gib eine Nummer ein.
+sb.error.text=Gib Text ein.
 sb.error.class=Ungültiger Klassenname.
