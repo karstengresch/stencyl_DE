@@ -1,13 +1,13 @@
 
 # SOUND CREATOR
 sound.top.main=Sound
-sound.top.properties=Properties
-sound.choose=Choose File...
-sound.mix=Edit Sound
-sound.rename.title=Rename Sound
-sound.play.title=Playback
-sound.info.title=Sound Info
-sound.import=Click here to import a sound file.
+sound.top.properties=Eigenschaften
+sound.choose=Datei wählen...
+sound.mix=Sound bearbeiten
+sound.rename.title=Sound umbennenen
+sound.play.title=Wiedergabe
+sound.info.title=Sound-Informationen
+sound.import=Hier klicken, um eine Sounddatei zu importieren.
 sound.info.channels=Channels:
 sound.info.rate=Rate:
 sound.chooser.title=Choose a Sound...
