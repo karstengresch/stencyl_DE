@@ -2,15 +2,15 @@
 # STENCYLTALK
 # DO NOT TRANSLATE STENCYLTALK
 chat.name=StencylTalk
-chat.list.title=My Friends
-chat.list.pop= Pop Out into Window
-chat.list.return=Return to Main Window
-chat.list.add=Add Friend
-chat.list.add.input=Enter your friend's username:
-chat.list.add.error.title=That user does not exist.
-chat.list.add.error.desc=Verify that you spelled the name correctly.
-chat.list.remove=Remove Friend
-chat.list.remove.error=Could not remove user from contact list.
+chat.list.title=Meine Freunde
+chat.list.pop= In separates Fenster wechseln
+chat.list.return=Zurück zum Hauptfenster
+chat.list.add=Freund hinzufügen
+chat.list.add.input=Den Benutzernamen Deines Freunds erfassen:
+chat.list.add.error.title=Dieser Benutzer kann nicht gefunden werden.
+chat.list.add.error.desc=Bitte prüfen, ob Du den Namen richtig geschrieben hast.
+chat.list.remove=Freund entfernen
+chat.list.remove.error=Konte Benutzer nicht aus Kontaktliste entfernen.
 chat.list.rooms=Rooms
 chat.list.online=Online
 chat.list.offline=Offline
