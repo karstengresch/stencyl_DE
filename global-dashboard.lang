@@ -110,11 +110,11 @@ folder.edit.title.new=Neues Verzeichnis erstellen
 # PACKS
 pack.icon=Icon
 # PREVIEW PANE
-scene.preview=Size: <0> x <1><br><2> Behaviors
-actor.preview=<1> Behaviors<br><0> Group
+scene.preview=Size: <0> x <1><br><2> Verhalten
+actor.preview=<1> Verhalten<br><0> Gruppe
 bg.library.preview=Size: <0> x <1><br> <2>
-bg.preview.anim=Animated
-bg.preview.noanim=Not Animated
-tileset.preview=<0> tiles
-sprite.preview=<0> animations
+bg.preview.anim=Animiert
+bg.preview.noanim=Nicht animiert
+tileset.preview=<0> Tiles
+sprite.preview=<0> Animationen
 folder.preview=Contains <0> resources
