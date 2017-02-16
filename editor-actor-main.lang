@@ -11,7 +11,7 @@ actor.physics=Physik ändern
 actor.top.appearance=Erscheinungsbild
 actor.top.behavior=Verhalten
 actor.top.collision=Kollisionen
-actor.top.physics=Physic
+actor.top.physics=Physik
 actor.top.properties=Eigenschaften
 actor.top.attach=Zur Szene hinzufügen
 # Properties
@@ -26,9 +26,9 @@ actor.chooser.title=Wähle einen Sprite
 # Warnings
 actor.warning.name=Der Name wird schon verwendet.
 actor.warning.name.invalid=Ungültiger Name.
-actor.warning.blank=Gebe einen Namen ein.
-actor.warning.number=Gebe einen positiven Integer ein.
+actor.warning.blank=Gib einen Namen ein.
+actor.warning.number=Gib einen positiven Integer ein.
 actor.warning.nosnippets=Klicke hier um ein Verhalten auszuwählen und es zu einem Spielertyp hinzuzufügen.
 actor.warning.nosnippets2=Klicke hier um ein Verhalten auszuwählen und es zu einer Szene hinzuzufügen.
-actor.warning.float=Gebe eine gültige Nummer ein.
-actor.warning.int=Gebe einen gültigen Integer ein.
+actor.warning.float=Gib eine gültige Nummer ein.
+actor.warning.int=Gib einen gültigen Integer ein.
