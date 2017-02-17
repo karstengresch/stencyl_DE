@@ -26,10 +26,10 @@ chat.status.setmessage=Statusnachricht verfassen
 chat.status.setmessage.input=Erfasse Deine Statusnachricht:
 chat.connecting=Verbinde...
 chat.reconnecting=Nehme Verbindung wieder auf...
-chat.action.setstatus=Set status to: <0>
-chat.action.link=Insert Link
-chat.action.transfer=Send File
-chat.action.transfer.input=Choose a friend to send the file to.
+chat.action.setstatus=Setze Status auf: <0>
+chat.action.link=Link einfügen
+chat.action.transfer=Datei schicken
+chat.action.transfer.input=Freund für den Dateiversand wählen.
 # STENCYLTALK - TRANSFER
 chat.transfer.image.send=Transferring Image...
 chat.transfer.project.send=Transferring Game Project...
