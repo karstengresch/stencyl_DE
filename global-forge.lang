@@ -2,10 +2,10 @@
 # STENCYLFORGE
 forgecenter.title=StencylForge
 # MENU
-library.menu.download=Download
-library.menu.playnow=Play Now!
-library.menu.attach=Attach a Game
-library.menu.update=Update Attached Game
+library.menu.download=Herunterladen
+library.menu.playnow=Jetzt spielen!
+library.menu.attach=Spiel hinzufügen
+library.menu.update=Hinzugefügtes Spiel aktualisieren
 library.menu.attach.i=Attach a game as a way for users to demo your resource. 
 library.menu.attach.i2=The currently opened game will be used.
 library.menu.expand=View Details
