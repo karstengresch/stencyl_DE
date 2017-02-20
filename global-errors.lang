@@ -1,8 +1,8 @@
 
 # ERRORS
-error.nan=Enter a number.
-error.negative=Enter a positive number.
-error.blank=Enter a value.
+error.nan=Bitte eine Nummer erfassen.
+error.negative=Bitte eine positive Nummer erfassen.
+error.blank=Bitte einen Wert erfassen.
 error.anim.load=Warning: Missing Image Data
 error.anim.load.i=Stencyl could not locate image data for one or more actor types and has substituted blank images to continue. Close the game, do not save and post it to the forums.
 error.save.kittogame=Unable to convert '<0>' from kit to game.
