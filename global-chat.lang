@@ -49,11 +49,11 @@ chat.transfer.image.error.title=Konnte Bild nicht übermitteln.
 chat.transfer.game.error.desc=Prüfe entweder die Internetverbindung oder, ob Empfänger die Datei angenommen hat.
 # STENCYLTALK - INCOMING
 chat.transfer.incoming.error.title=Dateiübermittlung wurde abgebrochen.
-chat.transfer.incoming.error.desc=Check your internet connection, or verify with the sender.
-chat.transfer.incoming.receive=Downloading <0>...
-chat.transfer.incoming.request=<0> would like to send you a file.
-chat.transfer.incoming.request.full=<0> would like to send you <1> (<2>)
-chat.transfer.incoming.request.desc=Only accept files from friends you trust.
+chat.transfer.incoming.error.desc=Bitte Internetverbindung prüfen oder Empfänger kontaktieren.
+chat.transfer.incoming.receive=Lade herunter <0>...
+chat.transfer.incoming.request=<0> möchte Dir eine Datei schicken.
+chat.transfer.incoming.request.full=<0> möchte Dir <1> schicken (<2>)
+chat.transfer.incoming.request.desc=Nimm nur Dateien von Freunden an, denen Du wirklich vertraust.
 chat.transfer.incoming.accept=Accept File
 chat.transfer.incoming.reject=Reject File
 chat.transfer.incoming.done=<0> finished sending you a file.
