@@ -38,7 +38,7 @@ share.error.playnow.desc=Keine Spielvorschau möglich, da das Spiel veröffentli
 share.error.download.title=Konnte Ressource nicht herunterladen.
 share.error.download.desc=Die Verbindung wurde entweder unterbrochen oder die Ressource wurde nicht vollständig auf unsere Server hochgeladen. Informiere den Autoren mittels "Fehler melden."
 # FORGE
-forge.license.tabtitle=Choose a License
+forge.license.tabtitle=Wähle eine Lizenz
 forge.license.cc.title=Creative Commons Attribution 3.0
 forge.license.pd.title=Public Domain
 forge.license.arr.title=All Rights Reserved
