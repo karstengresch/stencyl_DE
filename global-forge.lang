@@ -81,5 +81,5 @@ forge.bug2=Hat Fehler
 forge.bug3=Kann nicht heruntergeladen werden
 forge.bug.inst=Schildere das Problem bitte so genau wie möglich. Dein Bericht wird an den Spieleprogrammierer geschickt.
 forge.bug.title=Fehlerbericht für '<0>'
-forge.bug.success=<0> has received your report. Thanks for your feedback!
-forge.bug.fail=Could not submit your report. StencylForge may be temporarily down.
+forge.bug.success=<0> hat Deinen Bericht erhalten. Vielen Dank für Deine Rückmeldung!
+forge.bug.fail=Konnte Deinen Bericht nicht verschicken. Möglicherweise ist StencylForge vorübergehend nicht verfügbar.
