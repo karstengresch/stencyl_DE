@@ -34,13 +34,13 @@ feedback.comments=Deine Kommentare
 feedback.success=Vielen Dank für Deine Frage/Rückmeldung. Wenn nötig, nimmt jemand aus unserem Team mit Dir Kontakt per E-Mail auf.
 # HELP
 help.gui.prev=Vorherige Seite
-help.gui.next=Next Page
+help.gui.next=Nächste Seite
 test.game.progress1=Prepping %d of %d.
 # TIME
-date.short=MMM d, yyyy
-date.realtime=h:mm:ss a
-today=Today
-yesterday=Yesterday
+date.short=dd.mm.yyyy
+date.realtime=hh:mm:ss
+today=Heutr
+yesterday=Gestern
 hours.ago=<0> hours ago
 # TEMPORARY
 temp.followinst=Follow these instructions.
