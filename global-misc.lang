@@ -41,7 +41,7 @@ date.short=dd.mm.yyyy
 date.realtime=hh:mm:ss
 today=Heutr
 yesterday=Gestern
-hours.ago=<0> hours ago
+hours.ago=Vor <0> Stunden
 # TEMPORARY
-temp.followinst=Follow these instructions.
-temp.resourcepack=To add a resource to a pack, right-click a resource and choose the 'Add to Pack' option from the context menu.
+temp.followinst=Folge den Anweisungen.
+temp.resourcepack=Um eine Ressource zu einem Pack hinzuzufügen, auf Ressource rechtsklicken und den Eintrag 'Zu Pack hinzufügen' wählen.
