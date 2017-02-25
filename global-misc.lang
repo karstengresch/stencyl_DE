@@ -29,11 +29,11 @@ feedback.sugg=Vorschlag
 feedback.stuck=Ich stecke fest
 feedback.other=Anderes
 feedback.title=Zusammenfassung
-feedback.msg=Message
-feedback.comments=Your Comments
-feedback.success=Thanks for submitting your question or feedback. A member of our team may contact you via e-mail if necessary.
+feedback.msg=Machricht
+feedback.comments=Deine Kommentare
+feedback.success=Vielen Dank für Deine Frage/Rückmeldung. Wenn nötig, nimmt jemand aus unserem Team mit Dir Kontakt per E-Mail auf.
 # HELP
-help.gui.prev=Previous Page
+help.gui.prev=Vorherige Seite
 help.gui.next=Next Page
 test.game.progress1=Prepping %d of %d.
 # TIME
