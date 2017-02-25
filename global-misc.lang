@@ -25,10 +25,10 @@ kg.m2=kg m<0>
 pixels=Pixel
 # FEEDBACK
 feedback.bug=Fehlerbericht
-feedback.sugg=Suggestion
-feedback.stuck=I'm Stuck
-feedback.other=Other
-feedback.title=Summary
+feedback.sugg=Vorschlag
+feedback.stuck=Ich stecke fest
+feedback.other=Anderes
+feedback.title=Zusammenfassung
 feedback.msg=Message
 feedback.comments=Your Comments
 feedback.success=Thanks for submitting your question or feedback. A member of our team may contact you via e-mail if necessary.
