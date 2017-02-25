@@ -11,20 +11,20 @@ welcome.opengame=Spiel öffnen
 welcome.tabtitle=Begrüßungsbildschirm
 welcome.title1=Meine Spiele
 welcome.title2=Meine Kits
-welcome.published=My Published Games
+welcome.published=Meine veröffentlichten Spiele
 # LOADING
-load.loading=Loading
-load.lnf=Look
-load.ui=Interface
+load.loading=Lade
+load.lnf=Aussehen
+load.ui=Oberfläche
 # PHYSICS UNITS (Leave these as is)
 kg=kg
 m=m
 n=n
 s=s
 kg.m2=kg m<0>
-pixels=pixels
+pixels=Pixel
 # FEEDBACK
-feedback.bug=Bug Report
+feedback.bug=Fehlerbericht
 feedback.sugg=Suggestion
 feedback.stuck=I'm Stuck
 feedback.other=Other
